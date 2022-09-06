@@ -1,7 +1,7 @@
 
-# Frontend Mentor - E-commerce product page
+# Frontend Mentor - timer
 
-![Design preview for the E-commerce product page coding challenge](./design/desktop-preview.jpg)
+![Design timer product page coding challenge](./design/desktop-preview.jpg)
 
 - [Overview](#overview)
   - [Links](#links)
@@ -15,7 +15,7 @@ timer
 
 ### Links
 
-- Live Site URL: [timer](https://olegbobokhidze.github.io/E-commerce-page/)
+- Live Site URL: [timer](https://olegbobokhidze.github.io/timing/)
 
 
 ### Built with
