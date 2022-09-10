@@ -15,7 +15,7 @@ timer
 
 ### Links
 
-- Live Site URL: [timer](https://olegbobokhidze.github.io/timing/)
+- Live Site URL: [timer](https://olegbobokhidze.github.io/timer/)
 
 
 ### Built with
